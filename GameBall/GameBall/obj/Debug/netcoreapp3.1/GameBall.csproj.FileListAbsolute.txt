@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.exe
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.deps.json
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.runtimeconfig.json
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.runtimeconfig.dev.json
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.dll
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\bin\Debug\netcoreapp3.1\GameBall.pdb
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall_MarkupCompile.cache
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall_MarkupCompile.lref
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.g.resources
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.AssemblyInfo.cs
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.dll
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.pdb
+C:\Users\HP\Desktop\MIC\GameBall\GameBall\obj\Debug\netcoreapp3.1\GameBall.csprojAssemblyReference.cache
